@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25&width=435&lines=Embedded+Software+Engineer;Electronic+Designer)](https://git.io/typing-svg)
 # Hi, I’m Camilo 👋
-I am a Embedded Software Engineer, Electronic designer and IoT Edge Enthusiast.
-- 👀 I’m also interested in automation, advanced control loops, robotics and soft-computing
+I am a Embedded Software Engineer, Electronic designer and IoT Enthusiast.
+- 👀 I’m also interested in RTOSes, automation, advanced control loops, robotics and soft-computing
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on C/C++, Rust projects.
+- 💞️ I’am looking to collaborate on projects based on C/C++, Rust as well as hardware design projects with Altium Designer.
 - 📫 How to reach me.. Email me at kmilo17pet@gmail.com
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,cmake,linux,bash,matlab,ai,githubactions&perline=9)](https://skillicons.dev)
