@@ -1,5 +1,8 @@
 <img width=50% src="https://capsule-render.vercel.app/api?type=rect&height=90&section=header&text=kmilo17pet&fontSize=50"/>
 
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25&width=435&lines=Embedded+Software+Engineer;Electronic+Designer)](https://git.io/typing-svg)
 # Hi, I’m Camilo 👋
 I am a Embedded Software Engineer, Electronic designer and IoT Enthusiast.
@@ -19,6 +22,7 @@ I am a Embedded Software Engineer, Electronic designer and IoT Enthusiast.
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilo17pet&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
+ ![](https://komarev.com/ghpvc/?username=kmilo17pet)
  
  </details>
 <!---
